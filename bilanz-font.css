@@ -1,0 +1,27 @@
+/* font A */
+@font-face {
+  font-family: 'Font-A';
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://develop.bilanz.ch/fonts/a/400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Font-A-bold-700';
+  font-weight: 700;
+  font-display: swap;
+  src: url('https://develop.bilanz.ch/fonts/a/700.woff2') format('woff2');
+}
+
+/* font B */
+@font-face {
+  font-family: 'Font-B';
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://develop.bilanz.ch/fonts/b/variable.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Font-B-bold-700';
+  font-weight: 700;
+  font-display: swap;
+  src: url('https://develop.bilanz.ch/fonts/b/variable.woff2') format('woff2');
+}
