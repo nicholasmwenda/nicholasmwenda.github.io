@@ -3,25 +3,30 @@
   font-family: 'Font-A';
   font-weight: 400;
   font-display: swap;
-  src: url('https://develop.bilanz.ch/fonts/a/400.woff2') format('woff2');
+  src: url('https://www.bilanz.ch/fonts/a/400.woff2') format('woff2');
 }
 @font-face {
-  font-family: 'Font-A-bold-700';
+  font-family: 'Font-A-bold';
   font-weight: 700;
   font-display: swap;
-  src: url('https://develop.bilanz.ch/fonts/a/700.woff2') format('woff2');
+  src: url('https://www.bilanz.ch/fonts/a/700.woff2') format('woff2');
 }
 
 /* font B */
+/* 
+  Please be aware that we had to manually convert the variable.woff2 here into 2 static font files. 
+  This was needed as Sailthru is not able to register dynamic fonts, different font weights need to be served separately as static font 
+ */
+
 @font-face {
   font-family: 'Font-B';
   font-weight: 400;
   font-display: swap;
-  src: url('https://develop.bilanz.ch/fonts/b/variable.woff2') format('woff2');
+  src: url('https://www.bilanz.ch/fonts/sailthru/b/400.woff2') format('woff2');
 }
 @font-face {
-  font-family: 'Font-B-bold-700';
+  font-family: 'Font-B-bold';
   font-weight: 700;
   font-display: swap;
-  src: url('https://develop.bilanz.ch/fonts/b/variable.woff2') format('woff2');
+  src: url('https://www.bilanz.ch/fonts/sailthru/b/700.woff2') format('woff2');
 }
