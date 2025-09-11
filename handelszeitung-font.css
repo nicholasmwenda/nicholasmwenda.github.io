@@ -1,31 +1,41 @@
+/* Gotham Email-Safe Font Setup (WOFF only) */
+
 @font-face {
-  font-family: "Gotham Normal";
+  font-family: "Gotham";
   font-weight: 400;
-  src: url("https://nicholasmwenda.github.io/gotham/gotham_book.otf")
-    format("opentype");
   font-style: normal;
+  src: url("https://nicholasmwenda.github.io/gotham/gotham-book.woff")
+    format("woff");
 }
 
 @font-face {
-  font-family: "Gotham Normal";
-  font-weight: 800;
-  src: url("https://nicholasmwenda.github.io/gotham/gotham_black.otf")
-    format("opentype");
+  font-family: "Gotham";
+  font-weight: 700;
   font-style: normal;
+  src: url("https://nicholasmwenda.github.io/gotham/gotham-bold.woff")
+    format("woff");
+}
+
+@font-face {
+  font-family: "Gotham Bold";
+  font-weight: 700;
+  font-style: normal;
+  src: url("https://nicholasmwenda.github.io/gotham/gotham-bold.woff")
+    format("woff");
 }
 
 @font-face {
   font-family: "Gotham Black";
   font-weight: 800;
-  src: url("https://nicholasmwenda.github.io/gotham/gotham_black.otf")
-    format("opentype");
   font-style: normal;
+  src: url("https://nicholasmwenda.github.io/gotham/gotham-black.woff")
+    format("woff");
 }
 
 @font-face {
   font-family: "Gotham Ultra";
   font-weight: 900;
-  src: url("https://nicholasmwenda.github.io/gotham/gotham_ultra.otf")
-    format("opentype");
   font-style: normal;
+  src: url("https://nicholasmwenda.github.io/gotham/gotham-ultra.woff")
+    format("woff");
 }
