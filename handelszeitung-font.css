@@ -2,62 +2,86 @@
   font-family: "Gotham Thin";
   font-weight: 100;
   font-style: normal;
-  src: url("https://nicholasmwenda.github.io/gotham/gotham_thin.woff")
-    format("woff");
+  src:
+    url("https://nicholasmwenda.github.io/gotham/gotham_thin.woff")
+      format("woff"),
+    url("https://nicholasmwenda.github.io/gotham/gotham_thin.otf")
+      format("opentype");
 }
 
 @font-face {
   font-family: "Gotham Light";
   font-weight: 300;
   font-style: normal;
-  src: url("https://nicholasmwenda.github.io/gotham/gotham_light.woff")
-    format("woff");
+  src:
+    url("https://nicholasmwenda.github.io/gotham/gotham_light.woff")
+      format("woff"),
+    url("https://nicholasmwenda.github.io/gotham/gotham_light.otf")
+      format("opentype");
 }
 
 @font-face {
   font-family: "Gotham Book";
   font-weight: 400;
   font-style: normal;
-  src: url("https://nicholasmwenda.github.io/gotham/gotham_book.woff")
-    format("woff");
+  src:
+    url("https://nicholasmwenda.github.io/gotham/gotham_book.woff")
+      format("woff"),
+    url("https://nicholasmwenda.github.io/gotham/gotham_book.otf")
+      format("opentype");
 }
 
 @font-face {
   font-family: "Gotham Medium";
   font-weight: 500;
   font-style: normal;
-  src: url("https://nicholasmwenda.github.io/gotham/gotham_medium.woff")
-    format("woff");
+  src:
+    url("https://nicholasmwenda.github.io/gotham/gotham_medium.woff")
+      format("woff"),
+    url("https://nicholasmwenda.github.io/gotham/gotham_medium.otf")
+      format("opentype");
 }
 
 @font-face {
   font-family: "Gotham Book";
   font-weight: 700;
   font-style: normal;
-  src: url("https://nicholasmwenda.github.io/gotham/gotham_bold.woff")
-    format("woff");
+  src:
+    url("https://nicholasmwenda.github.io/gotham/gotham_bold.woff")
+      format("woff"),
+    url("https://nicholasmwenda.github.io/gotham/gotham_bold.otf")
+      format("opentype");
 }
 
 @font-face {
   font-family: "Gotham Bold";
   font-weight: 700;
   font-style: normal;
-  src: url("https://nicholasmwenda.github.io/gotham/gotham_bold.woff")
-    format("woff");
+  src:
+    url("https://nicholasmwenda.github.io/gotham/gotham_bold.woff")
+      format("woff"),
+    url("https://nicholasmwenda.github.io/gotham/gotham_bold.otf")
+      format("opentype");
 }
 
 @font-face {
   font-family: "Gotham Black";
   font-weight: 800;
   font-style: normal;
-  src: url("https://nicholasmwenda.github.io/gotham/gotham_black.woff")
-    format("woff");
+  src:
+    url("https://nicholasmwenda.github.io/gotham/gotham_black.woff")
+      format("woff"),
+    url("https://nicholasmwenda.github.io/gotham/gotham_black.otf")
+      format("opentype");
 }
 
 @font-face {
   font-family: "Gotham Ultra";
   font-weight: 900;
   font-style: normal;
-  src: url("https://nicholasmwenda.github.io/gotham/gotham_ultra.woff")
-    format("woff");
+  src:
+    url("https://nicholasmwenda.github.io/gotham/gotham_ultra.woff")
+      format("woff"),
+    url("https://nicholasmwenda.github.io/gotham/gotham_ultra.otf")
+      format("opentype");
 }
