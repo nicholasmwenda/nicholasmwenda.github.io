@@ -1,7 +1,21 @@
-/* Gotham Email-Safe Font Setup (WOFF only) */
+@font-face {
+  font-family: "Gotham Thin";
+  font-weight: 100;
+  font-style: normal;
+  src: url("https://nicholasmwenda.github.io/gotham/gotham-thin.woff")
+    format("woff");
+}
 
 @font-face {
-  font-family: "Gotham";
+  font-family: "Gotham Light";
+  font-weight: 300;
+  font-style: normal;
+  src: url("https://nicholasmwenda.github.io/gotham/gotham-light.woff")
+    format("woff");
+}
+
+@font-face {
+  font-family: "Gotham Book";
   font-weight: 400;
   font-style: normal;
   src: url("https://nicholasmwenda.github.io/gotham/gotham-book.woff")
@@ -9,7 +23,15 @@
 }
 
 @font-face {
-  font-family: "Gotham";
+  font-family: "Gotham Medium";
+  font-weight: 500;
+  font-style: normal;
+  src: url("https://nicholasmwenda.github.io/gotham/gotham-medium.woff")
+    format("woff");
+}
+
+@font-face {
+  font-family: "Gotham Book";
   font-weight: 700;
   font-style: normal;
   src: url("https://nicholasmwenda.github.io/gotham/gotham-bold.woff")
