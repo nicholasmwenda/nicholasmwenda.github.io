@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Gotham Normal";
-  font-weight: normal;
+  font-weight: 400;
   src: url("https://nicholasmwenda.github.io/gotham/gotham_book.otf")
     format("opentype");
   font-style: normal;
@@ -8,14 +8,6 @@
 
 @font-face {
   font-family: "Gotham Normal";
-  font-weight: bold;
-  src: url("https://nicholasmwenda.github.io/gotham/gotham_black.otf")
-    format("opentype");
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Gotham Bold";
   font-weight: 800;
   src: url("https://nicholasmwenda.github.io/gotham/gotham_black.otf")
     format("opentype");
@@ -24,6 +16,14 @@
 
 @font-face {
   font-family: "Gotham Black";
+  font-weight: 800;
+  src: url("https://nicholasmwenda.github.io/gotham/gotham_black.otf")
+    format("opentype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gotham Ultra";
   font-weight: 900;
   src: url("https://nicholasmwenda.github.io/gotham/gotham_ultra.otf")
     format("opentype");
