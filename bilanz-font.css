@@ -87,6 +87,14 @@
 }
 
 @font-face {
+  font-family: "Merriweather Regular";
+  font-weight: 700;
+  font-style: normal;
+  src: url("https://nicholasmwenda.github.io/merriweather/Merriweather-Bold.ttf")
+    format("truetype");
+}
+
+@font-face {
   font-family: "Merriweather Medium";
   font-weight: 500;
   font-style: normal;
